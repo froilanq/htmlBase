@@ -1,0 +1,26 @@
+a 
+{
+    text-decoration: none;
+}
+
+body
+{
+   font-family: Trebuchet MS;    
+}
+.shadow {
+text-shadow:#666666 1px 1px 1px;
+filter: progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=135, Strength=2);
+}
+
+#main
+{
+    width: 940px;
+    margin: 0 auto;
+    position: relative;
+}
+/********header**********/
+#header
+{
+    
+}
+
